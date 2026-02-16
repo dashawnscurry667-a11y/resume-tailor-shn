@@ -1,0 +1,38 @@
+{
+  "name": "Jeff Schumacher",
+  "email": "jschumacher88@outlook.com",
+  "title": "Senior Software Engineer",
+  "location": "61 Poulin Dr, Lancaster, MA 0152",
+  "linkedin": "",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "school": "Worcester State University",
+      "start_year": "2006",
+      "end_year": "2010"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Monster",
+      "title": "Senior Full Stack Software Engineer",
+      "start_date": "Sep 2019",
+      "end_date": "Present",
+      "location": ""
+    },
+    {
+      "company": "Monster",
+      "title": "Senior Software Engineer",
+      "start_date": "Sep 2018",
+      "end_date": "Sep 2019",
+      "location": ""
+    },
+    {
+      "company": "Sorriso Technologies",
+      "title": "Software Engineer",
+      "start_date": "Feb 2012",
+      "end_date": "Jun 2018",
+      "location": ""
+    }
+  ]
+}

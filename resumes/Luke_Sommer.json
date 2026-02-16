@@ -1,0 +1,52 @@
+{
+  "name": "Luke Sommer",
+  "email": "lukesom97@outlook.com",
+  "title": "Senior Software Engineer",
+  "location": "3207 Vine St, Cincinnati, OH 45220",
+  "linkedin": "",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "school": "Bowling Green State University",
+      "start_year": "2006",
+      "end_year": "2012"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Workhorse Group Inc",
+      "title": "Software Engineer",
+      "start_date": "Aug 2019",
+      "end_date": "Nov 2025",
+      "location": ""
+    },
+    {
+      "company": "Eurofins QTA Inc",
+      "title": "Software Engineer",
+      "start_date": "Aug 2014",
+      "end_date": "Aug 2019",
+      "location": ""
+    },
+    {
+      "company": "Franciscan Media",
+      "title": "Web Developer",
+      "start_date": "Sep 2013",
+      "end_date": "Jun 2014",
+      "location": ""
+    },
+    {
+      "company": "The Reynolds and Reynolds Company",
+      "title": "Web Developer",
+      "start_date": "Jun 2011",
+      "end_date": "Aug 2012",
+      "location": ""
+    },
+    {
+      "company": "Creative Mynds",
+      "title": "Back End Developer",
+      "start_date": "Oct 2009",
+      "end_date": "Jan 2011",
+      "location": ""
+    }
+  ]
+}
