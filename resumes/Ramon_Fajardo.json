@@ -1,0 +1,45 @@
+{
+  "name": "Ramon Fajardo",
+  "email": "ramonomoore12@gmail.com",
+  "title": "Senior Software Engineer",
+  "location": "4027 Calamba, Calabarzon, Philippines",
+  "linkedin": "",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "school": "Nihon University",
+      "start_year": "2013",
+      "end_year": "2017"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Kiggla",
+      "title": "Senior Full Stack Engineer",
+      "start_date": "Oct 2024",
+      "end_date": "Present",
+      "location": ""
+    },
+    {
+      "company": "PuzzleHR",
+      "title": "Senior Full Stack Engineer",
+      "start_date": "Aug 2021",
+      "end_date": "Sep 2024",
+      "location": ""
+    },
+    {
+      "company": "Intrado",
+      "title": "Senior Full Stack Engineer",
+      "start_date": "May 2018",
+      "end_date": "Jun 2021",
+      "location": ""
+    },
+    {
+      "company": "4Mation",
+      "title": "Web Developer",
+      "start_date": "Jun 2017",
+      "end_date": "Apr 2018",
+      "location": ""
+    }
+  ]
+}

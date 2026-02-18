@@ -1,0 +1,45 @@
+{
+  "name": "Jhon Edzel Lagartos",
+  "email": "lagartosjhon905@gmail.com",
+  "title": "Senior Software Engineer",
+  "location": "4027 Calamba, Calabarzon, Philippines",
+  "linkedin": "",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "school": "Nagoya University",
+      "start_year": "2012",
+      "end_year": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "company": "The Simple Vue",
+      "title": "Lead Software Engineer",
+      "start_date": "Dec 2023",
+      "end_date": "Present",
+      "location": ""
+    },
+    {
+      "company": "PuzzleHR",
+      "title": "Senior Full Stack Engineer",
+      "start_date": "Jun 2020",
+      "end_date": "Nov 2023",
+      "location": ""
+    },
+    {
+      "company": "Epoq",
+      "title": "Senior Full Stack Engineer",
+      "start_date": "May 2018",
+      "end_date": "Apr 2020",
+      "location": ""
+    },
+    {
+      "company": "GlobalTix",
+      "title": "Web Developer",
+      "start_date": "Jul 2016",
+      "end_date": "Apr 2018",
+      "location": ""
+    }
+  ]
+}

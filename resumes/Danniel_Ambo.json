@@ -1,0 +1,51 @@
+{
+  "name": "Danniel Ambe",
+  "email": "dannielambe555@gmail.com",
+  "title": "Senior Software Engineer",
+  "location": "4027 Calamba, Calabarzon, Philippines",
+  "linkedin": "",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "school": "Tokyo University of Science",
+      "start_year": "2010",
+      "end_year": "2014"
+    },
+    {
+      "degree": "Master's degree in Computer Science",
+      "school": "Tokyo University of Science",
+      "start_year": "2014",
+      "end_year": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Kiggla",
+      "title": "Lead Software Engineer",
+      "start_date": "Oct 2014",
+      "end_date": "Present",
+      "location": ""
+    },
+    {
+      "company": "The Simple Vue",
+      "title": "Senior Full Stack Engineer",
+      "start_date": "Aug 2021",
+      "end_date": "Oct 2024",
+      "location": ""
+    },
+    {
+      "company": "GlobalTix",
+      "title": "Software Engineer",
+      "start_date": "Aug 2018",
+      "end_date": "Jun 2021",
+      "location": ""
+    },
+    {
+      "company": "Dvinchi",
+      "title": "Software Engineer",
+      "start_date": "Aug 2016",
+      "end_date": "Jul 2018",
+      "location": ""
+    }
+  ]
+}
