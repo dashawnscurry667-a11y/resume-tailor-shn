@@ -1,0 +1,51 @@
+{
+  "name": "Angelo Cruz",
+  "email": "angelo.cruz6671@gmail.com",
+  "title": "Senior Software Engineer",
+  "location": "4027 Calamba, Calabarzon, Philippines",
+  "linkedin": "",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "school": "Kyoto University",
+      "start_year": "2010",
+      "end_year": "2014"
+    },
+    {
+      "degree": "Master's degree in Computer Science",
+      "school": "Kyoto University",
+      "start_year": "2014",
+      "end_year": "2016"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Kiggla",
+      "title": "Lead Software Engineer",
+      "start_date": "Oct 2014",
+      "end_date": "Present",
+      "location": ""
+    },
+    {
+      "company": "PuzzleHR",
+      "title": "Senior Full Stack Engineer",
+      "start_date": "Jun 2021",
+      "end_date": "Aug 2024",
+      "location": ""
+    },
+    {
+      "company": "The Simple Vue",
+      "title": "Full Stack Engineer",
+      "start_date": "Aug 2019",
+      "end_date": "Apr 2021",
+      "location": ""
+    },
+    {
+      "company": "GlobalTix",
+      "title": "Web Developer",
+      "start_date": "Jun 2016",
+      "end_date": "Jun 2019",
+      "location": ""
+    }
+  ]
+}
