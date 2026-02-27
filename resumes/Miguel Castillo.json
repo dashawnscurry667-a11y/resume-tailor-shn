@@ -1,0 +1,38 @@
+{
+  "name": "Miguel Castillo",
+  "email": "migul.c@outlook.com",
+  "title": "Senior Software Engineer",
+  "location": "4027 Calamba, Calabarzon, Philippines",
+  "linkedin": "",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "school": "Nihon University",
+      "start_year": "2013",
+      "end_year": "2017"
+    }
+  ],
+  "experience": [
+    {
+      "company": "PWF",
+      "title": "Senior Full Stack Engineer",
+      "start_date": "April 2023",
+      "end_date": "Present",
+      "location": ""
+    },
+    {
+      "company": "Kiggla",
+      "title": "Senior Full Stack Engineer",
+      "start_date": "March 2020",
+      "end_date": "March 2023",
+      "location": ""
+    },
+    {
+      "company": "Appbay",
+      "title": "Web Developer",
+      "start_date": "Jun 2017",
+      "end_date": "April 2020",
+      "location": ""
+    }
+  ]
+}
